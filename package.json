@@ -1,6 +1,6 @@
 {
   "name": "koa-better-method-override",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "HTTP method override for koa",
   "main": "index.js",
   "files": [
